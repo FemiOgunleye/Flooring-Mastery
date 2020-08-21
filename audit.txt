@@ -1,0 +1,97 @@
+2020-08-17T17:32:40.007572600 : Order list updated
+2020-08-17T17:33:16.315430500 : Order list updated
+2020-08-18T18:02:49.837836 : Order list updated
+2020-08-18T18:02:54.106234500 : Order list updated
+2020-08-18T18:11:58.287301100 : Order 2 |Date :1111-11-11
+2020-08-19T15:15:22.108185600 : Order 3 |Date :1111-11-11 CREATED
+2020-08-19T15:15:22.133186600 : addOrder: 3Order Number: 3 |Date: 1111-11-11Customer Name: NameState: com.fo.flooringmastery.dto.State@1033576aProduct: com.fo.flooringmastery.dto.Product@303cf2baArea: 100.0Material Cost: 515.0Cost per square foot: 0.0Labor Cost: 475.0Labor cost per square foot: 0.0Tax: 5692.5Total: 6682.5
+2020-08-19T15:17:07.327574800 : addOrder: 3Order Number: 3 |Date: 1111-11-11Customer Name: Customer NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 60.0Material Cost: 309.0Cost per square foot: 0.0Labor Cost: 285.0Labor cost per square foot: 0.0Tax: 3712.5Total: 4306.5
+2020-08-19T15:19:42.219110100 : addOrder : 3Order Number: 3 |Date: 1111-11-11Customer Name: NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 100.0Material Cost: 225.0Cost per square foot: 0.0Labor Cost: 210.0Labor cost per square foot: 0.0Tax: 2501.25Total: 2936.25
+2020-08-19T15:20:11.636408400 : removeOrder : 1111-11-111
+2020-08-19T15:24:13.314858800 : addOrder : 3Order Number: 3 |Date: 1212-12-12Customer Name: One twoState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 9.0Material Cost: 20.25Cost per square foot: 0.0Labor Cost: 18.900000000000002Labor cost per square foot: 0.0Tax: 225.11250000000004Total: 264.26250000000005
+2020-08-19T15:33:07.011116600 : addOrder : 3Order Number: 3 |Date: 1111-11-11Customer Name: Customer NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 98.0Material Cost: 504.70000000000005Cost per square foot: 0.0Labor Cost: 465.5Labor cost per square foot: 0.0Tax: 5578.650000000001Total: 6548.85
+2020-08-19T15:35:02.737196500 : addOrder : Order Number: 3 |Date: 1111-11-11Customer Name: OTher OneState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 56.0Material Cost: 126.0Cost per square foot: 0.0Labor Cost: 117.60000000000001Labor cost per square foot: 0.0Tax: 1522.5000000000002Total: 1766.1000000000004
+2020-08-19T15:35:41.804886700 : addOrder : Order Number: 4 |Date: 1313-11-11Customer Name: One THreeState: com.fo.flooringmastery.dto.State@6f204a1aProduct: com.fo.flooringmastery.dto.Product@24569dbaArea: 12.0Material Cost: 27.0Cost per square foot: 0.0Labor Cost: 25.200000000000003Labor cost per square foot: 0.0Tax: 300.15000000000003Total: 352.35
+2020-08-19T15:36:46.648360200 :  : 
+2020-08-19T15:37:49.034267 : addOrder : 
+2020-08-19T15:38:24.996243600 : addOrder : 4Order Number: 4 |Date: 1111-11-11Customer Name: NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 23.0Material Cost: 118.45Cost per square foot: 0.0Labor Cost: 109.25Labor cost per square foot: 0.0Tax: 1309.2749999999999Total: 1536.975
+2020-08-19T15:39:51.165386700 : addOrder : 4
+2020-08-19T15:41:18.923300800 : addOrder : 4Order Number: 4 |Date: 1111-11-11Customer Name: NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 23.0Material Cost: 118.45Cost per square foot: 0.0Labor Cost: 109.25Labor cost per square foot: 0.0Tax: 1309.2749999999999Total: 1536.975
+2020-08-19T15:42:19.498755400 : addOrder : Order Number: 4 |Date: 1111-11-11Customer Name: NameState: com.fo.flooringmastery.dto.State@8462f31Product: com.fo.flooringmastery.dto.Product@24569dbaArea: 345.0Material Cost: 776.25Cost per square foot: 0.0Labor Cost: 724.5Labor cost per square foot: 0.0Tax: 9379.6875Total: 10880.4375
+2020-08-19T15:55:37.608721300 : addOrder : 4Order Number: 4 |Date: 1111-11-11 Customer Name: Name |State: MI |Product: Wood |Area: 21.0 |Material Cost: 108.15 |Cost per square foot: 0.0 |Labor Cost: 99.75 |Labor cost per square foot: 0.0 |Tax: 1195.425 |Total: 1403.325
+2020-08-19T15:57:04.389138100 : removeOrder : 1111-11-114
+2020-08-19T15:59:48.688625300 : addOrder : 4Order Number: 4 |Date: 1313-12-12 Customer Name: Name |State: MI |Product: Wood |Area: 45.0 |Material Cost: 231.75000000000003 |Cost per square foot: 0.0 |Labor Cost: 213.75 |Labor cost per square foot: 0.0 |Tax: 2561.625 |Total: 3007.125
+2020-08-19T16:00:04.903557800 : removeOrder : 1313-12-124
+2020-08-19T16:01:22.312763200 : addOrder : 4Order Number: 4 |Date: 1111-11-11 Customer Name: Name |State: MI |Product: Wood |Area: 12.0 |Material Cost: 61.800000000000004 |Cost per square foot: 0.0 |Labor Cost: 57.0 |Labor cost per square foot: 0.0 |Tax: 683.1 |Total: 801.9000000000001
+2020-08-19T16:01:40.202051 : removeOrder : 1111-11-114
+2020-08-19T16:03:25.885666 : addOrder : 4Order Number: 4 |Date: 1111-11-11 Customer Name: ASfdehythg |State: MI |Product: Wood |Area: 23.0 |Material Cost: 118.45 |Cost per square foot: 0.0 |Labor Cost: 109.25 |Labor cost per square foot: 0.0 |Tax: 1309.2749999999999 |Total: 1536.975
+2020-08-19T16:03:38.814287 : removeOrder : 1111-11-114
+2020-08-19T18:05:54.685055900 : addOrder : 4Order Number: 4 |Date: 2020-08-19 Customer Name: Name |State: MI |Product: Wood |Area: 100.0 |Material Cost: 515.0 |Cost per square foot: 0.0 |Labor Cost: 475.0 |Labor cost per square foot: 0.0 |Tax: 5692.5 |Total: 6682.5
+2020-08-19T19:08:09.896390 : addOrder : 4Order Number: 4 |Date: 1212-12-12 Customer Name: oidfkngvkdlsvnc  |State: MI |Product: Laminate |Area: 324234.0 |Material Cost: 567409.5 |Cost per square foot: 0.0 |Labor Cost: 680891.4 |Labor cost per square foot: 0.0 |Tax: 7177730.175 |Total: 8426031.075
+2020-08-19T20:53:32.753789400 : addOrder : 2Order Number: 2 |Date: 1111-11-11 Customer Name: Name |State: MI |Product: Carpet |Area: 100.0 |Material Cost: 225.0 |Cost per square foot: 0.0 |Labor Cost: 210.0 |Labor cost per square foot: 0.0 |Tax: 2501.25 |Total: 2936.25
+2020-08-19T21:24:14.447858500 : addOrder : 2Order Number: 2 |Date: 1111-11-11 Customer Name: Name |State: OH |Product: Laminate |Area: 79.0 |Material Cost: 138.25 |Cost per square foot: 0.0 |Labor Cost: 165.9 |Labor cost per square foot: 0.0 |Tax: 1900.9374999999998 |Total: 2205.0874999999996
+2020-08-19T21:24:52.441977600 : addOrder : 3Order Number: 3 |Date: 1111-11-11 Customer Name: OTher One |State: MI |Product: Carpet |Area: 1.0 |Material Cost: 2.25 |Cost per square foot: 0.0 |Labor Cost: 2.1 |Labor cost per square foot: 0.0 |Tax: 25.0125 |Total: 29.362499999999997
+2020-08-19T21:51:04.906391 : addOrder : 2Order Number: 2 |Date: 1111-11-11 Customer Name: New Name |State: OH |Product: Wood |Area: 90.0 |Material Cost: 463.50000000000006 |Cost per square foot: 0.0 |Labor Cost: 427.5 |Labor cost per square foot: 0.0 |Tax: 5568.75 |Total: 6459.75
+2020-08-19T21:57:36.027670900 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: New Name |State: MI |Product: Carpet |Area: 123.0 |Material Cost: 276.75 |Cost per square foot: 0.0 |Labor Cost: 258.3 |Labor cost per square foot: 0.0 |Tax: 3076.5375 |Total: 3611.5874999999996
+2020-08-19T21:58:21.943034800 : removeOrder : 1111-11-111
+2020-08-19T23:09:27.537661700 : addOrder : 4Order Number: 4 |Date: 1111-11-11 Customer Name:  |State: MI |Product: Carpet |Area: 12.00 |Material Cost: 27.00 |Cost per square foot: 0.00 |Labor Cost: 25.20 |Labor cost per square foot: 0.00 |Tax: 300.15 |Total: 352.35
+2020-08-19T23:12:28.661238700 : addOrder : 4Order Number: 4 |Date: 1111-11-11 Customer Name: sdfsd |State: OH |Product: Laminate |Area: 100.00 |Material Cost: 175.00 |Cost per square foot: 0.00 |Labor Cost: 210.00 |Labor cost per square foot: 0.00 |Tax: 2,406.25 |Total: 2,791.25
+2020-08-19T23:13:00.600484600 : removeOrder : 1111-11-111
+2020-08-19T23:15:53.840205100 : removeOrder : 1111-11-111
+2020-08-19T23:18:44.778837800 : removeOrder : 1111-11-111
+2020-08-19T23:18:55.430705100 : removeOrder : 1111-11-111
+2020-08-19T23:19:53.051633300 : removeOrder : 1111-11-111
+2020-08-19T23:20:39.585143500 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: New Name |State: MI |Product: Carpet |Area: 123.00 |Material Cost: 276.75 |Cost per square foot: 0.00 |Labor Cost: 258.30 |Labor cost per square foot: 0.00 |Tax: 3,076.54 |Total: 3,611.59
+2020-08-19T23:20:48.593025300 : removeOrder : 1111-11-111
+2020-08-19T23:22:13.699560300 : removeOrder : 1111-11-111
+2020-08-19T23:28:56.125980300 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: New Name |State: MI |Product: Carpet |Area: 123.00 |Material Cost: 276.75 |Cost per square foot: 0.00 |Labor Cost: 258.30 |Labor cost per square foot: 0.00 |Tax: 3,076.54 |Total: 3,611.59
+2020-08-19T23:29:04.356001 : removeOrder : 1111-11-111
+2020-08-19T23:30:20.045041200 : removeOrder : 1111-11-112
+2020-08-19T23:47:02.409958900 : removeOrder : 1111-11-111
+2020-08-19T23:47:13.469735100 : removeOrder : 1111-11-112
+2020-08-20T00:02:29.158549500 : removeOrder : 1111-11-111
+2020-08-20T00:02:43.958464100 : removeOrder : 1111-11-112
+2020-08-20T00:03:45.431738100 : removeOrder : 1111-11-111
+2020-08-20T00:05:40.176787400 : removeOrder : 1111-11-111
+2020-08-20T00:05:48.821664100 : removeOrder : 1111-11-113
+2020-08-20T00:06:45.541280900 : removeOrder : 1111-11-111
+2020-08-20T00:16:04.299205700 : removeOrder : 1111-11-111
+2020-08-20T00:16:24.073689900 : removeOrder : 1111-11-111
+2020-08-20T00:18:54.636989100 : removeOrder : 1111-11-111
+2020-08-20T00:22:40.985507100 : removeOrder : 1111-11-111
+2020-08-20T00:23:56.803195 : removeOrder : 1111-11-111
+2020-08-20T00:31:29.110403300 : removeOrder : 1111-11-111
+2020-08-20T00:31:40.630266400 : removeOrder : 1111-11-113
+2020-08-20T00:32:27.460150 : removeOrder : 1111-11-111
+2020-08-20T00:32:40.565135400 : addOrder : 3Order Number: 3 |Date: 1111-11-11 Customer Name: OTher One |State: OH |Product: Carpet |Area: 56.00 |Material Cost: 126.00 |Cost per square foot: 0.00 |Labor Cost: 117.60 |Labor cost per square foot: 0.00 |Tax: 1,522.50 |Total: 1,766.10
+2020-08-20T00:32:52.074994900 : removeOrder : 1111-11-113
+2020-08-20T00:35:04.501176300 : removeOrder : 1111-11-111
+2020-08-20T00:35:19.982898300 : removeOrder : 1111-11-112
+2020-08-20T00:49:36.938042900 : removeOrder : 1111-11-111
+2020-08-20T00:50:03.302112600 : removeOrder : 1111-11-113
+2020-08-20T00:52:44.104462200 : removeOrder : 1111-11-111
+2020-08-20T00:52:53.878129500 : removeOrder : 1111-11-113
+2020-08-20T00:55:51.424927200 : removeOrder : 1111-11-111
+2020-08-20T00:56:59.213753800 : removeOrder : 1111-11-113
+2020-08-20T00:57:55.537104700 : removeOrder : 1111-11-111
+2020-08-20T00:58:03.123200800 : removeOrder : 1111-11-113
+2020-08-20T00:58:11.339881300 : removeOrder : 1111-11-112
+2020-08-20T14:07:05.334904200 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Customer Name |State: MI |Product: Laminate |Area: 0.00 |Material Cost: 0.00 |Cost per square foot: 0.00 |Labor Cost: 0.00 |Labor cost per square foot: 0.00 |Tax: 0.00 |Total: 0.00
+2020-08-20T14:11:53.858023600 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: NAme |State: OH |Product: Carpet |Area: 0.00 |Material Cost: 0.00 |Cost per square foot: 0.00 |Labor Cost: 0.00 |Labor cost per square foot: 0.00 |Tax: 0.00 |Total: 0.00
+2020-08-20T14:12:41.710447800 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Customer Name |State: MI |Product: Carpet |Area: 0.00 |Material Cost: 0.00 |Cost per square foot: 0.00 |Labor Cost: 0.00 |Labor cost per square foot: 0.00 |Tax: 0.00 |Total: 0.00
+2020-08-20T14:13:34.154985500 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Customer Name |State: MI |Product: Carpet |Area: 15.00 |Material Cost: 33.75 |Cost per square foot: 0.00 |Labor Cost: 31.50 |Labor cost per square foot: 0.00 |Tax: 375.19 |Total: 440.44
+2020-08-20T14:14:21.356302900 : removeOrder : 1111-11-111
+2020-08-20T14:22:19.568827100 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All Ones |State: PA |Product: Laminate |Area: 20.00 |Material Cost: 35.00 |Cost per square foot: 0.00 |Labor Cost: 42.00 |Labor cost per square foot: 0.00 |Tax: 519.75 |Total: 596.75
+2020-08-20T14:23:14.778781300 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Updated All Ones |State: OH |Product: Carpet |Area: 650.00 |Material Cost: 1,462.50 |Cost per square foot: 0.00 |Labor Cost: 1,365.00 |Labor cost per square foot: 0.00 |Tax: 17,671.88 |Total: 20,499.38
+2020-08-20T14:24:06.883362 : removeOrder : 1111-11-111
+2020-08-20T14:25:09.795709400 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All ONes |State: MI |Product: Laminate |Area: 25.00 |Material Cost: 43.75 |Cost per square foot: 0.00 |Labor Cost: 52.50 |Labor cost per square foot: 0.00 |Tax: 553.44 |Total: 649.69
+2020-08-20T14:25:29.053695500 : addOrder : 2Order Number: 2 |Date: 2020-02-20 Customer Name: Twenties |State: PA |Product: Carpet |Area: 10.00 |Material Cost: 22.50 |Cost per square foot: 0.00 |Labor Cost: 21.00 |Labor cost per square foot: 0.00 |Tax: 293.62 |Total: 337.12
+2020-08-20T16:06:32.944854100 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All Ones |State: MI |Product: Carpet |Area: 20.00 |Material Cost: 45.00 |Cost per square foot: 0.00 |Labor Cost: 42.00 |Labor cost per square foot: 0.00 |Tax: 500.25 |Total: 587.25
+2020-08-20T16:08:01.904918600 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All Ones |State: OH |Product: Carpet |Area: 45.00 |Material Cost: 101.25 |Cost per square foot: 0.00 |Labor Cost: 94.50 |Labor cost per square foot: 0.00 |Tax: 1,223.44 |Total: 1,419.19
+2020-08-20T16:37:02.823598300 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All Ones |State: OH |Product: Carpet |Area: 65.00 |Material Cost: 146.25 |Cost per square foot: 0.00 |Labor Cost: 136.50 |Labor cost per square foot: 0.00 |Tax: 1,767.19 |Total: 2,049.94
+2020-08-20T16:38:06.833292200 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Updated All Ones |State: OH |Product: Carpet |Area: 65.00 |Material Cost: 146.25 |Cost per square foot: 0.00 |Labor Cost: 136.50 |Labor cost per square foot: 0.00 |Tax: 1,767.19 |Total: 2,049.94
+2020-08-20T16:39:12.379014700 : addOrder : 2Order Number: 2 |Date: 1111-11-11 Customer Name: Another One |State: OH |Product: Carpet |Area: 56.00 |Material Cost: 126.00 |Cost per square foot: 0.00 |Labor Cost: 117.60 |Labor cost per square foot: 0.00 |Tax: 1,522.50 |Total: 1,766.10
+2020-08-20T16:39:29.329315600 : removeOrder : 1111-11-111
+2020-08-20T18:34:50.088677600 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: All Ones |State: MI |Product: Carpet |Area: 50.00 |Material Cost: 112.50 |Cost per square foot: 0.00 |Labor Cost: 105.00 |Labor cost per square foot: 0.00 |Tax: 1,250.62 |Total: 1,468.12
+2020-08-20T18:35:51.384442900 : addOrder : 1Order Number: 1 |Date: 1111-11-11 Customer Name: Updated Name |State: MI |Product: Carpet |Area: 1.00 |Material Cost: 2.25 |Cost per square foot: 0.00 |Labor Cost: 2.10 |Labor cost per square foot: 0.00 |Tax: 25.01 |Total: 29.36
+2020-08-20T18:37:18.525958100 : removeOrder : 1111-11-111
